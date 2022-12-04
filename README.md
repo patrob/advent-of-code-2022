@@ -4,10 +4,10 @@
 
  - ### Day 1 - 2 ⭐️
  - ### Day 2 - 2 ⭐
+ - ### Day 3 - 2 ⭐
 
 ## Remaining Days
 
- - ### Day 3 - 0 ⭐
  - ### Day 4 - 0 ⭐
  - ### Day 5 - 0 ⭐
  - ### Day 6 - 0 ⭐
