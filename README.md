@@ -5,10 +5,10 @@
  - ### Day 1 - 2 ⭐️
  - ### Day 2 - 2 ⭐
  - ### Day 3 - 2 ⭐
+ - ### Day 4 - 2 ⭐ - _Decided not to write any tests..._
 
 ## Remaining Days
 
- - ### Day 4 - 0 ⭐
  - ### Day 5 - 0 ⭐
  - ### Day 6 - 0 ⭐
  - ### Day 7 - 0 ⭐
