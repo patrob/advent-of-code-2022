@@ -4,8 +4,8 @@ public interface IInputReader
 {
     string GetAllText(string path);
     string GetAllText();
-    IEnumerable<string> GetAllLinesOfText(string path);
-    IEnumerable<string> GetAllLinesOfText();
+    List<string> GetAllLinesOfText(string path);
+    List<string> GetAllLinesOfText();
 }
 
 public class InputReader : IInputReader
@@ -29,12 +29,12 @@ public class InputReader : IInputReader
         return GetAllText(_path);
     }
 
-    public IEnumerable<string> GetAllLinesOfText(string path)
+    public List<string> GetAllLinesOfText(string path)
     {
-        return GetAllText(path).Split('\n');
+        return GetAllText(path).Split('\n').ToList();
     }
 
-    public IEnumerable<string> GetAllLinesOfText()
+    public List<string> GetAllLinesOfText()
     {
         return GetAllLinesOfText(_path);
     }

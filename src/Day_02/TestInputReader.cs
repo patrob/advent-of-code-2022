@@ -16,12 +16,12 @@ public class TestInputReader : IInputReader
         return GetAllText(string.Empty);
     }
 
-    public IEnumerable<string> GetAllLinesOfText(string path)
+    public List<string> GetAllLinesOfText(string path)
     {
-        return GetAllText(string.Empty).Split('\n', StringSplitOptions.RemoveEmptyEntries);
+        return GetAllText(string.Empty).Split('\n', StringSplitOptions.RemoveEmptyEntries).ToList();
     }
 
-    public IEnumerable<string> GetAllLinesOfText()
+    public List<string> GetAllLinesOfText()
     {
         return GetAllLinesOfText(string.Empty);
     }
