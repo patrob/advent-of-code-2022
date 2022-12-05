@@ -11,8 +11,18 @@ public class TestInputReader : IInputReader
                "C Z";
     }
 
+    public string GetAllText()
+    {
+        return GetAllText(string.Empty);
+    }
+
     public IEnumerable<string> GetAllLinesOfText(string path)
     {
-        return GetAllText(string.Empty).Split('\n');
+        return GetAllText(string.Empty).Split('\n', StringSplitOptions.RemoveEmptyEntries);
+    }
+
+    public IEnumerable<string> GetAllLinesOfText()
+    {
+        return GetAllLinesOfText(string.Empty);
     }
 }
