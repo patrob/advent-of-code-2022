@@ -4,6 +4,8 @@ namespace Day_02;
 
 public class TestInputReader : IInputReader
 {
+    public bool IsExample { get; } = true;
+
     public string GetAllText(string path)
     {
         return "A Y\n"+
