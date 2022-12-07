@@ -8,10 +8,10 @@
  - ### Day 4 - 2 ⭐ - _Decided not to write any tests..._
  - ### Day 5 - 2 ⭐ - _Probably not going to write unit tests unless it gets more complex..._
  - ### Day 6 - 2 ⭐
+ - ### Day 7 - 2 ⭐ - _Recursion, recursion, recursion, recursion..._
 
 ## Remaining Days
 
- - ### Day 7 - 0 ⭐
  - ### Day 8 - 0 ⭐
  - ### Day 9 - 0 ⭐
  - ### Day 10 - 0 ⭐
