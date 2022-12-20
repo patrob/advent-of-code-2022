@@ -10,11 +10,11 @@
  - ### Day 6 - 2 ⭐
  - ### Day 7 - 2 ⭐ - _Recursion, recursion, recursion, recursion..._
  - ### Day 8 - 2 ⭐
- - ### Day 9 - 1 ⭐ - _Part 2 was elusive..._
+ - ### Day 9 - 2 ⭐ - _Part 2 was elusive... Until I wrote tests!_
+ - ### Day 10 - 0 ⭐
 
 ## Remaining Days
 
- - ### Day 10 - 0 ⭐
  - ### Day 11 - 0 ⭐
  - ### Day 12 - 0 ⭐
  - ### Day 13 - 0 ⭐
