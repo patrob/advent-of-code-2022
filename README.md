@@ -11,7 +11,7 @@
  - ### Day 7 - 2 ⭐ - _Recursion, recursion, recursion, recursion..._
  - ### Day 8 - 2 ⭐
  - ### Day 9 - 2 ⭐ - _Part 2 was elusive... Until I wrote tests!_
- - ### Day 10 - 0 ⭐
+ - ### Day 10 - 2 ⭐
  - ### Day 11 - 0 ⭐
  - ### Day 12 - 0 ⭐
  - ### Day 13 - 0 ⭐
@@ -21,10 +21,10 @@
  - ### Day 17 - 0 ⭐
  - ### Day 18 - 0 ⭐
  - ### Day 19 - 0 ⭐
+ - ### Day 20 - 0 ⭐
 
 ## Remaining Days
 
- - ### Day 20 - 0 ⭐
  - ### Day 21 - 0 ⭐
  - ### Day 22 - 0 ⭐
  - ### Day 23 - 0 ⭐
