@@ -12,7 +12,7 @@
  - ### Day 8 - 2 ⭐
  - ### Day 9 - 2 ⭐ - _Part 2 was elusive... Until I wrote tests!_
  - ### Day 10 - 2 ⭐
- - ### Day 11 - 0 ⭐
+ - ### Day 11 - 2 ⭐
  - ### Day 12 - 0 ⭐
  - ### Day 13 - 0 ⭐
  - ### Day 14 - 0 ⭐
